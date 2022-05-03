@@ -1,3 +1,3 @@
 testing
 printOn: aStream
-	aStream << address
+	address printOn: aStream

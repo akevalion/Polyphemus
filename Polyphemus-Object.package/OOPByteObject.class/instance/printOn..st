@@ -1,3 +1,3 @@
 accessing
 printOn: aStream
-	aStream << address
+	address printOn: aStream
